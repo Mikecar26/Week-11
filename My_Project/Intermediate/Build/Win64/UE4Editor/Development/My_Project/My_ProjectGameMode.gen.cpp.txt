@@ -1,0 +1,9 @@
+C:\Users\Mikec\Desktop\My_Project\Intermediate\Build\Win64\UE4Editor\Development\My_Project\Definitions.My_Project.h
+H:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+H:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Mikec\Desktop\My_Project\Source\My_Project/My_ProjectGameMode.h
+H:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+H:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+H:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+H:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Mikec\Desktop\My_Project\Intermediate\Build\Win64\UE4Editor\Inc\My_Project\My_ProjectGameMode.generated.h
